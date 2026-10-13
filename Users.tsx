@@ -43,3 +43,7 @@ function TestJinay() {
 function TestNishtha() {
   return "We are testing Nishtha's branch"
 }
+
+function TestNishtha2() {
+  return "We are testing Nishtha's 2nd commit"
+}
