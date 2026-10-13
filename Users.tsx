@@ -47,3 +47,11 @@ function TestNishtha() {
 function TestNishtha2() {
   return "We are testing Nishtha's 2nd commit"
 }
+
+function TestJinay2() {
+  return "We are testing Jinay's 2nd commit"
+}
+
+function TestJinay3() {
+  return "We are testing Jinay's 3rd commit"
+}
