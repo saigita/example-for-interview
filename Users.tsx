@@ -39,3 +39,7 @@ function Users() {
 function TestJinay() {
   return "We are testing Jinay's branch"
 }
+
+function TestJinay2() {
+  return "We are testing Jinay's 2nd branch"
+}
