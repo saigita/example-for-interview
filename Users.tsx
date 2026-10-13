@@ -41,5 +41,9 @@ function TestJinay() {
 }
 
 function TestJinay2() {
-  return "We are testing Jinay's 2nd branch"
+  return "We are testing Jinay's 2nd commit"
+}
+
+function TestJinay3() {
+  return "We are testing Jinay's 3rd commit"
 }
